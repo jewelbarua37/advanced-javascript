@@ -8,3 +8,4 @@ function add(num1, num2){
 }
 const result = add(13);
 console.log(result);
+
